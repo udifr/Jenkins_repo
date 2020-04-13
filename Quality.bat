@@ -1,0 +1,1 @@
+echo "Check the Quality of the project"
